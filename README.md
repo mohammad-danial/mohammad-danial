@@ -7,7 +7,7 @@ A Meticulous Data Science enthusiast accomplished in compiling, transforming and
 * 🌍  I'm based in Jordan
 * ✉️  You can contact me at [mhdkhaled.danial@gmail.com](mailto:mhdkhaled.danial@gmail.com)
 * 🧠  I'm learning to deploy ML projects
-* 🤝  I'm open to collaborating on ML, DL, Data Scraping, SEO, NLP and Native Android
+* 🤝  I'm open to collaborate on ML, DL, Data Scraping and NLP projects.
 
 
 ### Skills
